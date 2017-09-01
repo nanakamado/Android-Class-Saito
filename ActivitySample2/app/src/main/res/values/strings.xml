@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Sample</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="title_activity_next2">Next2Activity</string>
+    <string name="finish">Finish</string>
+    <string name="alert">Alert</string>
+</resources>
