@@ -1,0 +1,7 @@
+#Fri Sep 01 13:45:13 JST 2017
+base.0=/Users/satoru/Downloads/Http/HttpSample_skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1d1071926bac173c05690219b3857efef3aa0f80
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/satoru/Downloads/Http/HttpSample_skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_576d52c055cab9001180a22bd5441b30a4b4bcb8/classes.dex
+base.1=/Users/satoru/Downloads/Http/HttpSample_skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_576d52c055cab9001180a22bd5441b30a4b4bcb8
+file.0=/Users/satoru/Downloads/Http/HttpSample_skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1d1071926bac173c05690219b3857efef3aa0f80/classes.dex

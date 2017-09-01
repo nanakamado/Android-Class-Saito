@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:6:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/satoru/.android/build-cache/0f69da7f1797ebe52f1fec53fbaf38646275bf10/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/satoru/.android/build-cache/f66861320e7cc2fc3f1cc333af4f0e5f8192315e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/satoru/.android/build-cache/efeaa5585c9f64141126a275aecc3746ca6b7aae/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/satoru/.android/build-cache/7fa78934953fa2037cf51cb94ac864b21d95a985/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/satoru/.android/build-cache/1e60ae2daa9972735d92b2fa598196cabfe24af4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/satoru/.android/build-cache/e38194f390b9adf48cbde55a061dcf317964432c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/satoru/.android/build-cache/8f61b35510505459168d93e89c441199a7a99642/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/satoru/.android/build-cache/68d79d5a51d07d3a57a663a9b2a771e09cc75fd2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/satoru/.android/build-cache/8305905b16482602b9735c4570a65432ea32adbe/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.httpsample.MainActivity
+ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/satoru/.android/build-cache/0f69da7f1797ebe52f1fec53fbaf38646275bf10/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/satoru/.android/build-cache/f66861320e7cc2fc3f1cc333af4f0e5f8192315e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/satoru/.android/build-cache/efeaa5585c9f64141126a275aecc3746ca6b7aae/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/satoru/.android/build-cache/7fa78934953fa2037cf51cb94ac864b21d95a985/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/satoru/.android/build-cache/1e60ae2daa9972735d92b2fa598196cabfe24af4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/satoru/.android/build-cache/e38194f390b9adf48cbde55a061dcf317964432c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/satoru/.android/build-cache/8f61b35510505459168d93e89c441199a7a99642/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/satoru/.android/build-cache/68d79d5a51d07d3a57a663a9b2a771e09cc75fd2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/satoru/.android/build-cache/8305905b16482602b9735c4570a65432ea32adbe/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/satoru/.android/build-cache/0f69da7f1797ebe52f1fec53fbaf38646275bf10/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/satoru/Downloads/Http/HttpSample_skeleton/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/satoru/.android/build-cache/0f69da7f1797ebe52f1fec53fbaf38646275bf10/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/satoru/.android/build-cache/f66861320e7cc2fc3f1cc333af4f0e5f8192315e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/satoru/.android/build-cache/efeaa5585c9f64141126a275aecc3746ca6b7aae/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/satoru/.android/build-cache/7fa78934953fa2037cf51cb94ac864b21d95a985/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/satoru/.android/build-cache/1e60ae2daa9972735d92b2fa598196cabfe24af4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/satoru/.android/build-cache/e38194f390b9adf48cbde55a061dcf317964432c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/satoru/.android/build-cache/8f61b35510505459168d93e89c441199a7a99642/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/satoru/.android/build-cache/68d79d5a51d07d3a57a663a9b2a771e09cc75fd2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/satoru/.android/build-cache/8305905b16482602b9735c4570a65432ea32adbe/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/satoru/.android/build-cache/0f69da7f1797ebe52f1fec53fbaf38646275bf10/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/satoru/.android/build-cache/0f69da7f1797ebe52f1fec53fbaf38646275bf10/output/AndroidManifest.xml:26:9-47

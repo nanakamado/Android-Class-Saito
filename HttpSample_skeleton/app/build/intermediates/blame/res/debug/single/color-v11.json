@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/satoru/Downloads/Http/HttpSample_skeleton/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/satoru/.android/build-cache/0f69da7f1797ebe52f1fec53fbaf38646275bf10/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/satoru/Downloads/Http/HttpSample_skeleton/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/satoru/.android/build-cache/0f69da7f1797ebe52f1fec53fbaf38646275bf10/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

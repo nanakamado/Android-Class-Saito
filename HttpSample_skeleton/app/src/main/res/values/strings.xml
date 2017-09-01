@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HttpSample</string>
+    <!-- TODO 【HTTP通信 実習1】"Http通信" を定義する -->
+    <string name="http">Http通信</string>
+    <!-- TODO 【HTTP通信 実習3】"Key", "Value" を定義する -->
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+</resources>
